@@ -1,0 +1,46 @@
+<body>
+	<aircrafts>
+		<aircraft id="0">
+			<name>7673</name>
+			<latitude>571902N</latitude>
+			<longitude>0210448E</longitude>
+			<speed>Km731</speed>
+			<arl_code>7673</arl_code>
+		</aircraft>
+		<aircraft id="555">
+			<name>7671</name>
+			<latitude>0N</latitude>
+			<longitude>0E</longitude>
+			<speed>Km776</speed>
+			<arl_code>7671</arl_code>
+		</aircraft>
+		<aircraft id="777">
+			<name>75205</name>
+			<latitude>0N</latitude>
+			<longitude>0E</longitude>
+			<speed>Km272</speed>
+			<arl_code>75205</arl_code>
+		</aircraft>
+		<aircraft id="108">
+			<name>738001</name>
+			<latitude>0N</latitude>
+			<longitude>0E</longitude>
+			<speed>Km000</speed>
+			<arl_code>1077</arl_code>
+		</aircraft>
+		<aircraft id="192">
+			<name>6735</name>
+			<latitude>0N</latitude>
+			<longitude>0E</longitude>
+			<speed>Km583</speed>
+			<arl_code>6735</arl_code>
+		</aircraft>
+		<aircraft id="255">
+			<name>6266</name>
+			<latitude>0N</latitude>
+			<longitude>0E</longitude>
+			<speed>Km813</speed>
+			<arl_code>6266</arl_code>
+		</aircraft>
+	</aircrafts>
+</body>
